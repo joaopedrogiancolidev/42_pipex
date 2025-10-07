@@ -1,0 +1,6 @@
+DEBUG Child 2: Starting command execution...
+DEBUG: Starting execute_command for 'wc'
+DEBUG: Args[0] = 'wc'
+DEBUG: Path found = '/usr/bin/wc'
+DEBUG: Calling execve...
+     10      31     202
